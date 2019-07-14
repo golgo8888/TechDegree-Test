@@ -1,2 +1,2 @@
-# TechDegree Test
+# Techdegree Project
  Practice with GitHub
